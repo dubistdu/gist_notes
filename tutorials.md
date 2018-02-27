@@ -8,3 +8,6 @@ https://64bites.com/
 ### Ruby
 
 https://www.rubytapas.com/
+
+#### JSON from postgresql
+https://dockyard.com/blog/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql
