@@ -14,3 +14,6 @@ https://dockyard.com/blog/2014/05/27/avoid-rails-when-generating-json-responses-
 
 ### react
 https://daveceddia.com/react-practice-projects/
+
+### Networking, how internet works, etc etc
+https://jvns.ca/zines/
