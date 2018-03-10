@@ -22,3 +22,8 @@ https://jvns.ca/zines/
 ### Graph GL
 https://www.howtographql.com/
 http://graphql-ruby.org/getting_started
+
+
+### Rails API with Docker
+https://www.bbdev.com.pl/docker/setting-rails-api-docker/
+https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
