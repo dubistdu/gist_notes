@@ -17,3 +17,8 @@ https://daveceddia.com/react-practice-projects/
 
 ### Networking, how internet works, etc etc
 https://jvns.ca/zines/
+
+
+### Graph GL
+https://www.howtographql.com/
+http://graphql-ruby.org/getting_started
