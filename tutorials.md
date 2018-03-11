@@ -19,7 +19,7 @@ https://daveceddia.com/react-practice-projects/
 https://jvns.ca/zines/
 
 
-### Graph GL
+### Graph QL
 https://www.howtographql.com/
 http://graphql-ruby.org/getting_started
 
