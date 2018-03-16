@@ -1,13 +1,16 @@
 #### refactor
+```
 def count_chars(s)
  Hash[s.chars.uniq.zip s.chars.uniq.map {|a| s.count(a)}]
 end
-
-def count_chars(s)\n
-  keys = s.chars.uniq \n
-  value = s.chars.uniq.map {|a| s.count(a)} \n
-  Hash[keys.zip value] \n
+```
+```
+def count_chars(s)
+  keys = s.chars.uniq 
+  value = s.chars.uniq.map {|a| s.count(a)} 
+  Hash[keys.zip value] 
 end  
+```
  
  
  ### Nifty little method 'zip'
