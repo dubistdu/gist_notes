@@ -26,7 +26,8 @@ end  # => [2, 3, 4]
 next → object
 Returns the next object in the enumerator, and move the internal position forward. When the position reached at the end, StopIteration is raised.
 
-Example¶ ↑
+Example
+```
 a = [1,2,3]
 e = a.to_enum
 p e.next   #=> 1
@@ -34,3 +35,4 @@ p e.next   #=> 2
 p e.next   #=> 3
 p e.next   #raises StopIteration
 Note that enumeration sequence by next does not affect other non-external enumeration methods, unless the underlying iteration methods itself has side-effect, 
+```
